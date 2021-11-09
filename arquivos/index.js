@@ -1,2 +1,2 @@
 const novoArquivo = "Novo arquivo"
-console.log(novoArquivo)
+console.log(novoArquivo+'.txt')
